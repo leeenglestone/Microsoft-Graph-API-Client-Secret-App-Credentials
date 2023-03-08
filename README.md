@@ -1,6 +1,8 @@
 # Microsoft Graph API Access Client Using App Secret Credentials
 **Calling the Microsoft Graph API from C# using ClientSecret App credentials.**
 
+[![Hack Together: Microsoft Graph and .NET](https://img.shields.io/badge/Microsoft%20-Hack--Together-orange?style=for-the-badge&logo=microsoft)](https://github.com/microsoft/hack-together)
+
 Whilst there are a lot of examples of C# code to call the Microsoft Graph API using delegated access (where the user is prompted to enter their username and passport via a browser), I couldn't find that many examples of how to call he Microsoft Graph API from C# without needing to supply credentials in this manner.
 
 This sample shows how to call the Mictosoft Graph API in C# by providing a Client App Id and Client Secret created in Azure Active Directory
